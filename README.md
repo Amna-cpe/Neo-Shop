@@ -1,7 +1,7 @@
 # Neo-Shop
 An eCommerce app built with React/Django
 
-## to start the backend
+## To start the backend
 in the backend folder
 ```bash
  cd backend
@@ -10,7 +10,7 @@ in the backend folder
  python manage.py runserver 7000
 ```
 
-## to start the backend
+## To start the frontend
 int the frontend folder
 ```bash
  cd frontend
